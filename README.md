@@ -1,2 +1,2 @@
 # myproject
-welcome to my project
+welcome to my projects
